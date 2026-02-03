@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 💜 CalyPatcher
+  # CalyPatcher
   
   **A Solução Definitiva para Steam Tools & Millennium**
   
