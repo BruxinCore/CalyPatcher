@@ -8,6 +8,7 @@
   [![Status](https://img.shields.io/badge/status-STABLE-success?style=for-the-badge)](https://github.com/BruxinCore/CalyPatcher)
   [![Platform](https://img.shields.io/badge/platform-WINDOWS-blue?style=for-the-badge&logo=windows)](https://github.com/BruxinCore/CalyPatcher)
   [![License](https://img.shields.io/badge/license-BSAL-purple?style=for-the-badge)](https://github.com/BruxinCore/CalyPatcher/blob/main/LICENSE)
+  [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yDegXmAFc8)
 
   <p align="center">
     Um utilitário <b>moderno, portátil e automatizado</b> para corrigir erros comuns de DLL, downloads travados e crashes do Millennium na Steam.
